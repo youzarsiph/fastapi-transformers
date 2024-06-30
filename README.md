@@ -2,7 +2,9 @@
 
 [![Ruff Lint](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/ruff.yml)
 [![Black Format](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/black.yml)
-[![Django CI](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/fastapi.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/fastapi.yml)
+[![FastAPI CI](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/fastapi.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/fastapi.yml)
+[![Docker](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/docker-publish.yml)
+[![Docker Image CI](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/docker-image.yml/badge.svg)](https://github.com/youzarsiph/fastapi-transformers/actions/workflows/docker-image.yml)
 
 FastAPI AI microservice using Phi 3 from HuggingFace Hub
 
